@@ -34,13 +34,13 @@ Nosotras ofrecemos como proyecto escalable:
 
 ## 3. Team Members
 
-| Name | Role | 
-| :--- | :---: | 
-| Judit Calvet |  Scrum Master |
-| Aihnoa Cala | Product Owner | 
-| Carlos Sanchez  | Developer | https://github.com/Holapueblodev
-| Ana Delgado | Developer |
-| Georgette Palomo | Developer| 
+| Name | Role | GitHub | 
+| :--- | :---: | :---: | 
+| Judit Calvet |  Scrum Master | https://github.com/Judit-Calvet | 
+| Aihnoa Cala | Product Owner | https://github.com/acalabustos | 
+| Carlos Sanchez  | Developer | https://github.com/Holapueblodev | 
+| Ana Delgado | Developer | https://github.com/anadelccc | 
+| Georgette Palomo | Developer| https://github.com/georgette949 | 
 
 
 <h2>5. Final Design</h2> 
