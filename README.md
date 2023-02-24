@@ -38,7 +38,7 @@ Nosotras ofrecemos como proyecto escalable:
 | :--- | :---: | 
 | Judit Calvet |  Scrum Master |
 | Aihnoa Cala | Product Owner | 
-| Carlos Sanchez  | Developer | 
+| Carlos Sanchez  | Developer | https://github.com/Holapueblodev
 | Ana Delgado | Developer |
 | Georgette Palomo | Developer| 
 
