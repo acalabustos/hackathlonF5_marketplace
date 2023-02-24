@@ -41,6 +41,7 @@ Nosotras ofrecemos como proyecto escalable:
 | Carlos Sanchez  | Developer | https://github.com/Holapueblodev | 
 | Ana Delgado | Developer | https://github.com/anadelccc | 
 | Georgette Palomo | Developer| https://github.com/georgette949 | 
+| Alba Rus  | Developer| https://github.com/Albaric0que | 
 
 
 <h2>5. Final Design</h2> 
